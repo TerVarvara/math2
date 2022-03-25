@@ -1,0 +1,13 @@
+{
+	"file": "https://drive.google.com/file/d/1CMvUHKfqZSvXadyb27CpZR1vPY0Jj9tH/view?usp=sharing",
+	"name": "Test",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Country" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 3 }
+	]
+}
